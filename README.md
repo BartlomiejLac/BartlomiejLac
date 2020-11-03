@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is **Bartłomiej Łaciak** and I come from Poland.
+I'm currently studying at Cracow's university [AGH](https://www.agh.edu.pl/en/)
+I'm a beginner in terms of programming and I'm trying to gain experience mostly in **Python** at the time.
