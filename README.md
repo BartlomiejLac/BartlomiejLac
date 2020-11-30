@@ -19,3 +19,5 @@ I'm currently studying at Cracow's university [AGH](https://www.agh.edu.pl/en/)
 I'm a beginner in terms of programming and I'm trying to gain experience mostly in **Python** at the time.
 
 [Link to my page](https://bartlomiejlac.github.io)
+
+[Link to forked repository](https://github.com/BartlomiejLac/MODNet)
